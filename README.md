@@ -1,0 +1,1 @@
+# kassir.ru_powershell_scriptbase
