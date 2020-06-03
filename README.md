@@ -5,14 +5,11 @@
 # 1. Цель и задачу которую выполняет скрипт
 # 2. Необходимые модули для его исправного выполнения, которые нужно установить и скрипты для их установки.
 # 3. Имя работника написавшего исходный вариант кода.
-
 # Инструкция по установке и использованию GIT BASH:
-
 # Установка
 # C правами администратора в Powershell введите слудующий скрипт:
 # Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 # choco install git
-
 # Откройте GIT BASH
 # Введите свои учётные данные
 # >> git config --global user.name "Ваше Имя"
@@ -23,6 +20,5 @@
 # Создайте папку с названием скрипта и сохраните его внутри
 # Введите в GIT BASH команду git add --all для добавления файлов и изменений в Staging Area(промежуточная перед коммитом кода в репозиторий)
 # Для коммита кода в репозиторий используйте команду git commit -m "Комментарий к коммиту"
-
 # Шпоргалка по работе с Git https://github.com/cyberspacedk/Git-commands
 # Основы Git https://git-scm.com/book/ru/v2
